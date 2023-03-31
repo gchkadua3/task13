@@ -74,5 +74,13 @@
     padding: 20px 0px 9px 0px !important;
 }
 
+    .resp3icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0px 18px;
+    margin-top:10px;
+}
+
 
 }
